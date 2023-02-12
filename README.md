@@ -1,4 +1,4 @@
-# sumtotal
+# Cart Logic in MVVM
 
 A new Flutter project.
 
